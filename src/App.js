@@ -15,7 +15,7 @@ function App() {
       <WhatGTP3 />
       <Feature />
       <Possibility />
-      <Cta />~
+      <Cta />
       <Blog />
       <Footer />
     </div>
